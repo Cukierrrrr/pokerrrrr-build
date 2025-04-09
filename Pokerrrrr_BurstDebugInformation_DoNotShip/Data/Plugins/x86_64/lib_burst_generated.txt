@@ -10,6 +10,7 @@ Library: C:\Pokerrrrr\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --linker-options=PdbAltPath="Pokerrrrr_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Pokerrrrr\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity 2022.3.46f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Pokerrrrr\Library\Burst
 --output=C:\Pokerrrrr\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -104,6 +105,7 @@ Library: C:\Pokerrrrr\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --linker-options=PdbAltPath="Pokerrrrr_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Pokerrrrr\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity 2022.3.46f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Pokerrrrr\Library\Burst
 --output=C:\Pokerrrrr\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
